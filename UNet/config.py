@@ -1,0 +1,1 @@
+file_path = 'D:/Program/ModelSet/unet-master/' #Set the image file
